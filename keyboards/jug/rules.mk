@@ -1,0 +1,5 @@
+SERIAL_DRIVER = vendor
+
+TAP_DANCE_ENABLE = yes
+COMBO_ENABLE = yes
+QMK_SETTINGS = yes
